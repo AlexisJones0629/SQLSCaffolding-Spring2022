@@ -1,6 +1,6 @@
 # SQLSCaffolding-Spring2022
 ## Problem Statment
-This application is designed to help make learning SQL (specifically, SQLite) easier, and to also provide a more convienent way to edit questions.
+This application is designed to help make learning SQL (specifically, SQLite) easier, and to also provide a more convienent way to edit questions. Hi
 
 ## Navigation
 - [2021Fall-SQLScaffolding Development and Usage](2021Fall-SQLScaffolding-main/ScaffoldingSQLProject-master/README.md)
