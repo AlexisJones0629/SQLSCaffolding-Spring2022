@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f75df64-e894-4389-b03a-6c20d1fed18d" name="Changes" comment="" />
+    <list default="true" id="1f75df64-e894-4389-b03a-6c20d1fed18d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/2021Fall-SQLScaffolding-main/ScaffoldingSQLProject-master/ScaffoldingSQLProject.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/2021Fall-SQLScaffolding-main/ScaffoldingSQLProject-master/ScaffoldingSQLProject.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
