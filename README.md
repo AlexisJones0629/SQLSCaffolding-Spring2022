@@ -20,3 +20,4 @@ This application is designed to help make learning SQL (specifically, SQLite) ea
 - There is not unit testing for the QuestionMaker razor page.
 - There is not a banner notifying the user to enable JavaScript.
 - Documentation needs major improvement.
+- b
