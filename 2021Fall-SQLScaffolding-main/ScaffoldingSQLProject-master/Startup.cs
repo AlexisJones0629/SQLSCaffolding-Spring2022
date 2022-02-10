@@ -53,6 +53,7 @@ namespace CapstoneIdeas
                 endpoints.MapRazorPages();
                 endpoints.MapControllers();
             });
+            //hello
         }
     }
 }
